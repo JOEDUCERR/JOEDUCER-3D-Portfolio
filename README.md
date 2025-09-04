@@ -1,4 +1,4 @@
-# JOEDUCERR 🚀  
+# JOEDUCER-3D-Portfolio 🚀  
 
 An interactive **3D portfolio website** built with **Vite**, **React**, and **Tailwind CSS**. This project is designed to showcase creative projects, skills, and interactive experiences in a modern and responsive way.
 
