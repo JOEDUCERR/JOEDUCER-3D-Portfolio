@@ -14,23 +14,6 @@ This project is designed to showcase creative projects, skills, and interactive 
 
 ---
 
-## 📂 Project Structure  
-.
-├── public/ # Static assets
-├── src/ # React components & main app code
-│ ├── assets/ # Images, models, etc.
-│ ├── components/ # Reusable UI components
-│ ├── App.jsx # Root React component
-│ └── main.jsx # App entry point
-├── index.html # Main HTML template
-├── package.json # Dependencies & scripts
-├── tailwind.config.js # Tailwind setup
-├── vite.config.js # Vite configuration
-└── plan.txt # Notes / project plan
-
-
----
-
 ## 🛠️ Tech Stack
 React 18 – UI library
 Vite – Fast build tool
